@@ -13,7 +13,7 @@ Una vez construido, lo ejecutamos con la siguiente linea en la consola.
 
 `docker run -d --name=steplix-backend --network=host steplix-project`
 
-**NOTA**: Esperar unos segundos que que termine de levantar el contenedor.
+**NOTA**: Esperar unos segundos que termine de levantar el contenedor.
 
 ### REST API
 
